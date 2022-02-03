@@ -1,5 +1,6 @@
 # FabricModLearning
-Learning how to develop a Minecraft mod with Fabric API in JetBrain IntelliJ IDEA 
+
+学习如何用JetBrain制作以Fabric为API的Minecraft模组
 
 ~~GitHub suggested furry-eureka~~
 
